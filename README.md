@@ -60,7 +60,7 @@ Annotate the spectrogram to indicate current time and selected detector.
  * Extra: Turn each into audio.  (Don't autoplay though.)
 
 
-## Component 2: Transportable Array Movie
+## Component 2: Transportable Array Movie [Optional]
 
 Make a time-varying visualization of the transportable array and how it
 responds to an earthquake.  You will be graded on the information that is
