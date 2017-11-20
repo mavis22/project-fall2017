@@ -1,4 +1,4 @@
-Learn the haversine package (Python)
+Learn the haversine package (Python): https://github.com/mapado/haversine
 Order the detectors from closest to furthest
 
 Write-up
