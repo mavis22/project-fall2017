@@ -2,5 +2,13 @@ Learn the haversine package (Python): https://github.com/mapado/haversine
 Order the detectors from closest to furthest
 Define latlon of earthquake source in Tohoku: 38.322 N, 142.369 E (https://www.ngdc.noaa.gov/hazard/11mar2011.html)
 
+Component 1:
+1. Color the dot on the map
+2. Add the time slider
+3. [What exactly the spectrogram should look like?] 11.29 Office hour
+4. Line plot
+
+Component 3:
+
 
 Write-up
