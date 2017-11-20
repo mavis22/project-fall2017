@@ -1,6 +1,6 @@
 Discusssion at 11.20
 
-Part 1
+## Part 1
 Each row in location.txt is the longtitude and latitude of each station in column(data_tohoku_norm_transpose.csv)
 
 Map: each dot is a detector, of which color is the value of the wave (values in cells of csv file). Color changes when time     slider is moved.
@@ -8,3 +8,16 @@ Map: each dot is a detector, of which color is the value of the wave (values in 
 Lineplot: After selecting a specific detector, wave changes, along time, would be should here.
 
 Spectrogram: When time slider is moved, it highlights the current time point. When detector is selected, it highlights which detector is selected.
+
+Learn how to use ipywidget package: Jianshan, Liri, Mingwei
+
+Map: Coloring according to row values (link txt and csv) : Liri, Mingwei
+Line plot; Liri, Mingwei
+
+
+
+## Part 3:
+Finishe the coloring map: Jianshan
+Line plots (ignoring mouse hovering): Jianshan
+
+
