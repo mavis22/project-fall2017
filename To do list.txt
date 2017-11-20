@@ -1,3 +1,4 @@
 Learn the haversine package (Python)
+Order the detectors from closest to furthest
 
 Write-up
