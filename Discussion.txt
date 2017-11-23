@@ -20,4 +20,7 @@ Line plot; Liri, Mingwei
 Finishe the coloring map: Jianshan
 Line plots (ignoring mouse hovering): Jianshan
 
+Question: time range in time slider for Part 3.
+  Should we set one year or year range including several years in time slider?
+
 
