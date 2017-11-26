@@ -9,10 +9,7 @@ Component 1:
 4. Line plot
 
 Component 3:
-1.Tooltips to implement mouse hovering action
-2. ipywidget how to use it
-
-
+1.add normalized data-- divide by population or state area -- Zixin
 
 
 Write-up
