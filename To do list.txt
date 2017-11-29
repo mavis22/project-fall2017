@@ -3,10 +3,12 @@ Order the detectors from closest to furthest
 Define latlon of earthquake source in Tohoku: 38.322 N, 142.369 E (https://www.ngdc.noaa.gov/hazard/11mar2011.html)
 
 Component 1:
-1. Color the dot on the map
+1. Spectrogram -- Liri
+   Color the dot on the map
 2. Add the time slider
 3. [What exactly the spectrogram should look like?] 11.29 Office hour
 4. Line plot
+5. Turn each into audio
 
 Component 3:
 1.add normalized data-- divide by population or state area -- Zixin
