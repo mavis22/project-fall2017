@@ -5,7 +5,7 @@ Questions to ask Turk
 1. Spectrogram --part1
 2. Drop box --part1
 3. Tooltips cannot show the original number--part3
-4. number of normalize(1 or many)--part3
+4. number of normalize(1 or many)--2 nomarlize choose
 
 
 Component 1:
