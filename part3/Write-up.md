@@ -2,6 +2,7 @@
 
 ## Our approach and the reason we took the approach
 We used color maps to show the distribution of UFO total sightings and duration seconds from 1910 to 2014 in U.S. Different colors represent different numbers. Red represents relative large numbers, blue presents relative small numbers, and grey represents the middle. If there are only 0 and 1 in a particular year, black presents 0 while grey represents 1. The time slider is used to select a particular year. There are two drop down menus in the visualization. One is used to select whether to show the total sightings or duration seconds, and the other is used to select whether to show plots before normalization or after normalization. When we click on a state in the map, the plots on the right side shows the line plot of total sightings and duration seconds of that state from 1910 to 2014. When click on the background, the line plot will disappear. The total sightings and duration seconds of UFO reporting might be related to population in each state, so we use historical population of each state in U.S. for normalization. 
+
 The dataset can be found at https://en.m.wikipedia.org/wiki/List_of_U.S._states_by_historical_population . 
 
 ## Strengths of our approach
