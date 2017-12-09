@@ -11,6 +11,9 @@ Initially, we implement all required functions using matplotlib.pyplot.
 ### For Component_1_Version_2:
 In order to solve the drawback mentioned below, we using the mix of matplotlib.pyplot and bqpot packages and change the selection of detector by using clicking. 
 
+### Extra:
+We finished the transformation of audio for wave of detectors.
+
 ## Weaknesses of our approach
 We have several versions of code. Generally, our weaknessess are:
   * We missed the map background. With a map background, it will be more clear to see where the stations are if we come with a backgroud.
