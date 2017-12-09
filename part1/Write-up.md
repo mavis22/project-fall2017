@@ -6,7 +6,7 @@ This will give us a clear view of Tohoku earthquake, include of how long it last
 ## Weaknesses of our approach
   * We missed the map background. With a map background, it will be more clear to see where the stations are if we come with a backgroud.
   * It will be very good for us to add a play button, which can change the time slider automatically with variable steps. It will give better user experience.
-  * A sound generater may help people to understand more about how the strength was in the earthquake period.
+  * A sound generater may help people to get better understand about how the strength was in the earthquake period.
 ## Things we wished we had been able to do
   * Data processing: Reorder the data by distance.
   * Data visualization: Map, spectrogram and line plot.
